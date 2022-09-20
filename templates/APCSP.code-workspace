@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../APCSP-Fastpages"
+		},
+		{
+			"name": "flask",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
